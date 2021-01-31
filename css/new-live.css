@@ -1,0 +1,186 @@
+.latest{
+	font-size: 15px;
+	color: red;
+	font-weight: bold;
+}
+.nav-link{
+	padding-left: 20px !important;
+}
+.main{
+	padding-top: 20px;
+}
+.hr{
+	width: 140px;
+}
+.liverpool{
+	font-size: 18px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+.allphoto{
+	padding:0px;
+	border-radius: 0px;
+}
+#h{
+	width: 100%;
+	min-height: 123px;
+}
+.date{
+
+	font-size: 10px;
+}
+.liverpool-letter{
+	line-height: 30px;
+	color: #404040;
+}
+.mybutton{
+	margin-bottom: 10px;
+	background-color: #ce0000;
+	border:none;
+	color: white;
+}
+.mybutton:hover{
+	background-color: red;
+	color: white;
+}
+.adidas{
+	padding-top: 65px;
+	padding-bottom: 65px;
+	border:none;
+	margin-top: 0px;
+}
+.rakhine{
+	padding-top: 20px;
+}
+.br{
+	width: 95px;
+}
+.now{
+	padding-right: 5px;
+	padding-left:5px;
+	padding-bottom:25px;
+	padding-top:0px;
+}
+.rooy{
+	font-weight: bold;
+}
+.button{
+	border:none;
+	background-color: #ce0000;
+	font-size: 10px;
+	width: 75px;
+	color: white;
+}
+.button:hover{
+	background-color: red;
+	color: white;
+}
+.rrb{
+	margin-top: 25px;
+}
+.red{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 65px;
+	background-color:#ce0000;
+}
+.ibutton{
+	border:none;
+	border-radius: 50px;
+	font-size: 12px;
+	margin-left: 35px;
+	color: 	white;
+	background-color: #153ba3;
+}
+.ibutton:hover{
+	border:none;
+	border-radius: 50px;
+	font-size: 12px;
+	margin-left: 35px;
+	color: 	white;
+	background-color: #003687;
+}
+.kalar{
+	line-height: 22px;
+	color: white;
+	font-size: 12px;
+	padding-left: 35px;
+}
+.br2{
+	width: 73px;
+}
+.global{
+	padding-top: 65px;
+}
+.anp{
+	color: black;
+}
+.ANP{
+	padding-top: 18px;
+}
+.car{
+	padding-top: 75px;
+}
+.fa{
+	cursor: pointer;
+	padding-top: 20px;
+	padding-right: 20px;
+	font-size: 15px !important;
+}
+
+.liicon{
+	line-height: 28px;
+	cursor: pointer;
+	font-size: 14px;
+	margin-left: -45px;
+	list-style: none;
+	color: white;
+}
+.liicon:hover{
+	color: black;
+}
+body{
+	padding: 0px;
+}
+form{
+	padding: 13px;
+}
+.cor{
+	font-weight: bold;
+	padding-top: 15px;
+	font-size: 18px;
+}
+.may-pee{
+	font-size: 12px;	
+}
+.three-photo{
+	padding-top: 18px;
+}
+.aanp{
+	font-size: 12px;
+}
+.women{
+	margin-top: 20px;
+}
+.nap{
+	color: black;
+	padding-top: 10px;
+	font-size: 12px;
+}
+.chocolate{
+	margin-top: 20px;
+}
+.text-right{
+	margin-top: -18px;
+}
+.footer{
+	background-color: #878787;
+}
+.foot{
+	margin-top: 85px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.last-icon{
+	font-size: 27px !important;
+}

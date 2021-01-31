@@ -1,0 +1,197 @@
+.make-up-logo{
+  width: 65px;
+}
+body{
+  font-family: times;
+  background-color: #f0f0f0a3;
+}
+.nav-link{
+  padding-right: 40px;
+  color: white !important;
+  font-family: times;
+}
+.search{
+  border-radius: 1.25rem;
+  margin-right: 10px;
+  background-color: white;
+}
+.navdiv{
+  width: 100%;
+}
+.nav-bar{
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search-bar{
+  height: 40px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 1.25rem;
+}
+.search{
+  width: 205px;
+}
+.searchbar{
+  width: 175px;
+}
+.fa-search{
+  padding-right: 10px;
+  color: gray;
+}
+.search-button{
+  color: gray;
+}
+.item{
+  list-style: none;
+}
+.dollor{
+  color: #ff0059;
+}
+.font{
+  font-family: times;
+}
+.cosmic{
+  font-size: 20px;
+}
+.shop{
+  color: white;
+  border: 1px solid white;
+}
+.all-photo{
+  border-radius: 0px;
+  padding: 0px;
+  border: none;
+}
+.golssy{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.bold{
+  font-weight: bold;
+}
+.second{
+  padding-top: 10px;
+}
+.fa-bar-chart{
+  color: white;
+  border-radius: 50px;
+  padding: 5px;
+  background-color: #ff0059; 
+}
+.need{
+  color: white;
+  border-radius: 50px;
+  padding: 5px;
+}
+.two{
+  color: white;
+  border-radius: 50px;
+  padding: 5px;
+  background-color: #848484; 
+}
+.padding{
+  margin-top: 15px;
+}
+.top{
+  padding-left: 10px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.hot{
+  border-radius: 50%;
+  color: white;
+  padding:10px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #ff0059;
+}
+.heat{
+  border-radius: 50%;
+  color: white;
+  padding:10px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: #13db59;
+}
+.bottom{
+  padding-bottom: 15px;
+}
+.icon{
+  padding-top: 10px;
+  border-radius: 0px;
+  border:none;
+  color: white;
+  font-size: 60px !important;
+}
+.car{
+  background-color: #ff0059;
+}
+.money{
+  background-color: #13db59;
+}
+.users{
+  background-color: #343a40;
+}
+.border-none{
+  border:none;
+}
+.back-gray{
+  background-color: white;
+}
+.back-white{
+  background-color: gray;
+}
+.margin{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.small{
+  font-size: 15px;
+}
+.big{
+  font-size: 50px;
+  color: #ff0059;
+}
+.sosmall{
+  font-size: 12px;
+}
+.border{
+  border-radius: 50%;
+}
+.hosting{
+  padding-left: 58px;
+}
+.soo{
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid gray;
+}
+.color-white{
+  color: white;
+}
+.color-green{
+  color: #2cbe5f;
+}
+.bg-black{
+  background-color: #030303de;
+}
+.arrow-font{
+  font-size: 10px;
+}
+@media(min-width: 354px) and (max-width:572px){
+  .hidden{
+    display: none ;
+  }
+}
+@media(max-width: 1680px){
+  .cosmetics{
+    width: 500px;
+  }
+}
+.link{
+  color: white;
+}

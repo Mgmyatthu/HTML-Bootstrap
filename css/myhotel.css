@@ -1,0 +1,77 @@
+.hotel{width:100% ;
+	height:800px;
+	padding:0px !important;
+	background-image:url("photos/hote.jpg");
+	background-repeat: no-repeat;
+	background-size:cover!important;
+	overflow:hidden;
+}
+@media(max-width: 990px){
+	.bg-dark{
+		padding-top: 10px;
+		margin-top: 10px;
+	}
+}
+.input{ 
+	padding-top:200px;
+	word-spacing:10px; 
+}
+.text{width:150px;
+	height:30px;
+	text-align:center;
+}
+.mycontainer{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.our-best-rooms-ph{
+  	width: 100%;
+	padding: 0px !important;
+	border-radius: 0px !important;
+}
+.ourservice{
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.header{
+
+	height: 70px;
+	background-color: #a75a2e;
+}
+.button{
+	background-color: white;
+	font-size: 18px;
+}
+.click{
+	border-radius: 15px;
+	width: 100%;
+	height: 30px;
+	background-color: #a75a2e;
+
+}
+.press{
+	margin-top: -40px;
+    padding: 30px;
+
+}
+.icon{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+}
+.mycontainer{
+	width: 85%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.pictur{
+	padding: 0px;
+	border:0px !important;
+	border-radius: 0rem!important;
+	max-width: 100%;
+	height: auto;
+}

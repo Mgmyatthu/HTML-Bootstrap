@@ -1,0 +1,89 @@
+.ca{
+	color: white;
+	font-size: 12px;
+	margin-right: 2.5rem;
+}
+.red{
+	color: red;
+}
+.done{
+	width: 100%;
+}
+.hr1{
+	margin-top: -10px;
+	margin-bottom: -28px;
+	width: 252px;
+	margin-right: 2.5rem;
+}
+.hr2{
+	display:none ;
+	height: 2px;
+}
+@media(max-width: 767px){
+	.hr2{
+		display: block;
+	}
+	.ok{
+		padding-top: 10px;
+	}
+	.ako{
+		padding-bottom: 10px;
+	}
+	.border-right{
+		border:none !important;
+	}
+}
+.user-acess{
+	margin-top: -75px;
+}
+.bold{
+	font-weight: bold;
+}
+.back-ground{
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-image:url("../photos/hotel/back-ground.jpg"); 
+	background-color: green;
+}
+.nav-link{
+	color: white !important;
+}
+.fa-lock{
+	padding-right: 5px;
+}
+.h21{
+	color: white;
+	padding-top: 125px;
+	padding-bottom: 50px;
+}
+.number{
+	
+}
+.date{
+	margin-top: -27px;
+}
+.red{
+	color: red;
+}
+.black{
+	color: black;
+}
+.small{
+	font-size: 10px;
+}
+.fa-star{
+	color: #adad2a;
+}
+.medium{
+	font-size: 12px;
+}
+/*asdfdsf*/
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }

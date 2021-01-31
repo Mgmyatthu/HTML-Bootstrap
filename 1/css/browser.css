@@ -1,0 +1,99 @@
+.nav-link{
+	font-weight: bold;
+	font-size: 23px;
+	color: #002e5a !important;	
+}
+.nav-link:hover{
+	color: gray !important;
+}
+.lettercontainer{
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+}
+.image-container{
+	background-repeat:no-repeat;
+	width: auto;
+	height: 745px;
+	background-image: url("../office.jpg");
+}
+.lorem-container{
+	margin-top: -275px;
+}
+@media(max-width: 910px){
+	.lorem-container{
+		display: none;
+	}
+}
+.creative-header{
+	font-weight: bold;
+	font-size: 50px;
+	color: #002e5a;
+}
+.creative-letter{
+	font-weight: bold;
+	font-size: 20px;
+	color: #002e5a;
+
+}
+.logo{
+	margin-left: 20px;
+}
+.first-container{
+	font-weight: bold;
+	color: white;
+	background-color: #002e5a;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.mybutton{
+	margin-top: 70px;
+}
+.service-one{
+	padding-bottom: 20px;
+	padding-top: 30px;
+	color: #002e5a;
+	font-weight: bold;
+	text-align: center;
+}
+.service-two{
+	padding-bottom: 20px;
+	text-align: center;
+}
+.h4{
+	font-size: 30px;
+	color: #002e5a;
+	font-weight: bold;
+}
+.end-first-container{
+	padding-bottom: 35px;
+	background-color: #e1dcdc;
+}
+.end-first-header{
+	padding-bottom: 20px;
+	padding-top: 30px;
+	text-align: center;
+	color: #002e5a;
+	font-weight: bold;
+}
+.end-first-letter{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.end-second-letter{
+	margin-left: 50px;
+}
+ul{
+	line-height: 30px;
+	margin-left: 50px;
+}
+.mybutton2{
+	margin-left: 50px;
+}
+.myman{
+	padding-bottom: 10px;
+	border: none;
+	padding: 0px;
+	border-radius: 0px;
+}

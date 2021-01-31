@@ -1,0 +1,65 @@
+.nav-bar{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container-fluid{
+	background-color: #8f8f8f;
+}
+.nav-link{
+	color: white !important;
+}
+.nav-link:hover{
+	color: black !important;
+}
+.lady{
+	width: 100%;
+}
+.fa{
+	color: #545454;
+	font-size: 150px !important;
+}
+.icon{
+	padding-top: 65px;
+	padding-bottom: 50px;
+}
+hr{
+	width: 85%;
+	border:1px solid;
+}
+.img-thumbnail{
+	padding: 0px;
+	border:none;
+	border-radius: 35px;
+}
+.time{
+	padding-top: 5px;
+	font-family: times;
+}
+.header{
+	padding-bottom: 10px;
+}
+.technology{
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+.technology2{
+	padding-bottom: 80px;
+}
+h4{
+	padding-top: 100px;
+}
+.date{
+	padding-top: 10px;
+}
+.form-control{
+	border-radius: 10px;
+}
+.foot{
+	background-color: #8f8f8f;
+}
+.foot-let{
+	color: white;
+	padding: 80px;
+	margin-bottom: 0px;
+}

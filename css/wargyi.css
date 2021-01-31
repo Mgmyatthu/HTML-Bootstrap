@@ -1,0 +1,82 @@
+.my-table{
+	width: 50%;
+}
+.body{
+	word-wrap: break-word;
+}
+.my-td{
+	border-right: 1px solid gray;
+}
+.go::after {
+    display: none;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
+@media(max-width: 767px){
+	.my-row{
+		border:none !important;
+		height: 100% !important;
+	}
+	.drop{
+		padding: 0px;
+	}
+	.my-input{
+		height: 40px;
+		border-radius: 5px;
+		border:1px solid gray !important;
+	}
+}
+@media(max-width: 990px){
+		.i-row{
+		padding-top: 10px !important;
+	}
+	.o-rai{
+		border-right: none !important;
+		border-bottom: 1px solid gray;
+	}
+}
+@media(max-width: 1550px){
+	.my-padding{
+		padding-right: 0px !important;
+	}
+}
+@media(max-width: 1270px){
+	.my-p{
+		display: none;
+	}
+}
+.carousel-indicators li{
+	background-color: #acacac!important;
+	width: 8px!important;
+	height: 8px!important;
+	border-radius: 50%!important;
+}
+.carousel-indicators .active{
+	width: 30px!important;
+	border-radius: 48%!important;
+}
+.my-nav{
+	padding: 0.5rem 0rem !important
+}
+.my-background{
+	background-size: cover;
+	background-image: url(../photos/wargyi/back-ground.jpg);
+}
+.img-thumbnail{
+	border:none;
+}
+/*carousel*/
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }

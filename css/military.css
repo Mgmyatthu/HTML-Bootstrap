@@ -1,0 +1,44 @@
+.b-gray{
+	background-color: #626262!important;
+}
+.nav-link{
+	padding-left: 25px!important;
+	padding-right: 25px!important;
+	font-size: 20px;
+	color: white!important;
+}
+.navbar-toggler{
+	border-color: white!important;
+}
+.back{
+	padding-bottom: 345px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-image: url("../photos/military/back (2).jpg");
+}
+.back-img{
+	background-color: #ffffff99;
+}
+.hr1{
+	height: 4px!important;
+	color: white;
+}
+.card{
+	border:none!important;
+}
+.c-gray{
+	color: gray;
+}
+@media(max-width: 764px){
+	.move-one,.move-two,.align{
+		text-align: center;
+	}
+}
+.btt{
+	font-size: 20px;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+    border:none;
+}

@@ -1,0 +1,80 @@
+body{
+	font-family: times;
+}
+.kfc-logo{
+	margin-left: 20px;
+}
+.navbarbg{
+	background-color: #800000;
+}
+.nav-link{
+	font-weight: bold;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	color: white !important;
+}
+.first-div{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.KFC-cup{
+	padding: 0px;
+	border: none;
+	border-radius: 0px;
+}
+.about-letter{
+	font-size: 20px;
+	line-height: 36px;
+}
+.mybutton{
+	color: white;
+	background-color: #800000;
+	border: none;
+}
+.mybutton:hover{
+	background-color: #b70000;
+	color: white;
+}
+.second-div{
+	background-color: #e4e4e4;
+	padding-bottom: 75px;
+	padding-top: 55px;
+}
+.kfc-small{
+	margin-top: 20px;
+	border:none;
+	border-radius: 0px;
+	padding: 0px;
+}
+.date{
+	color: #4d4d4d;
+	padding-top: 10px;
+	font-weight: bold;
+}
+.third-div{
+	padding-bottom: 35px;
+	padding-top: 35px;
+}
+.chicken-logo{
+	border:none;
+	border-radius: 0px;
+	padding: 0px;
+}
+.restaurants{
+	color: #4d4d4d;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+.last{
+	background-color: #4d4d4d;
+}
+.fourth-div{
+	background-color: #4d4d4d;
+	padding-top: 90px;
+	padding-bottom: 80px;
+	text-align: center;
+	color: white;
+}
+.active-line{
+	border-bottom: 3px solid #fff;
+}
